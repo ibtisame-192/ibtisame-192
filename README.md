@@ -49,4 +49,4 @@ I'm Ibtissam, a Computer Science & AI student passionate about building interact
 - 📚 Currently improving my skills in ML & Web Development
 
 ### 📫 Connect with me
-- [Add your LinkedIn here](https://www.linkedin.com/in/ibtissam-achlauchi-869092294/)
+- [Ibtissam's LinkdIn](https://www.linkedin.com/in/ibtissam-achlauchi-869092294/)
